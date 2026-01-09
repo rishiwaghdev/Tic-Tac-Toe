@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game  
 
-A simple and fun **Tic Tac Toe** game built with [your tech stack – e.g., HTML, CSS, JavaScript .  
+A simple and fun **Tic Tac Toe** game built with HTML, CSS, JavaScript .  
 Play against a friend and see who wins 🏆!  
 
 ---
